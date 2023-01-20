@@ -8,7 +8,7 @@ Allowed fields: `["printer_state", "temp_tool", "temp_bed", "job_completion"]`.
 
 ```yaml
 widget:
-    type: octoprint
+    type: octoPrint
     url: http://octoprint.host.or.ip:port
 ```
 
